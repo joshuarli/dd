@@ -13,4 +13,4 @@ shell:          zsh
 
 ## install
 
-ymmv, but generally from a fresh arch install, `install-stage1.sh` in a tty as a sudo-enabled user, then in X, `install-stage2.sh` and reboot (or `kill xinit` then `startx` again).
+ymmv, but generally from a fresh arch install, `install.sh` in a tty as a sudo-enabled user.
